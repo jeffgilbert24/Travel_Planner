@@ -1,0 +1,25 @@
+{
+  "name": "Travel_Planner",
+  "version": "1.0.0",
+  "description": "This app allows the use to plan and create trips",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffgilbert24/Travel_Planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffgilbert24/Travel_Planner/issues"
+  },
+  "homepage": "https://github.com/jeffgilbert24/Travel_Planner#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
+}
